@@ -1,0 +1,16 @@
+.carousel-slider {
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: -20px 20px 60px #b8b8b8,
+    20px -20px 60px #ffffff;
+}
+/* @media screen and (min-width: 640px){
+    .carousel-slider{
+        border-radius: 10px;
+
+    }
+} */
+.carousel-root {
+    padding-left: 10%;
+
+}
